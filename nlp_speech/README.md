@@ -1,1 +1,1 @@
-# SAI-2021-Team-A nlp/speech team
+# SAI-2021-Team-A nlp and speech team
